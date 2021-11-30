@@ -1,2 +1,0 @@
-# AgendarApp
- Prueba practica UAT
