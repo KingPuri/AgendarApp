@@ -1,0 +1,5 @@
+export const GET_AGENDAS = "GET_AGENDAS";
+export const ADD_AGENDA = "ADD_AGENDA";
+export const DELETE_AGENDA = "DELETE_AGENDA";
+export const UPDATE_AGENDA = "UPDATE_AGENDA";
+export const GET_SINGLE_AGENDA = "GET_SINGLE_AGENDA";
